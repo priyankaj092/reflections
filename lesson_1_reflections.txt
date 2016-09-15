@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+use command diff -u oldfile_name newfile_name(for git bash)
+ FC oldfile new file(command promt)
